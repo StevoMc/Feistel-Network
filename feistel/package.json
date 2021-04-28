@@ -1,0 +1,15 @@
+{
+  "name": "feistel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "feistel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitwise-rotation": "^1.0.1"
+  },
+  "type": "module"
+}
